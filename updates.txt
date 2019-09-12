@@ -1,0 +1,6 @@
+1. Fix projectile stuck when enemy dies
+2. Add tower delete capabilities
+3. Fix top tower location error
+4. Add more offense
+5. Add object menu
+6. 
